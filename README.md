@@ -1,3 +1,3 @@
-Tetris game... enough said!
+Tetris game!
 
 Try the .JAR file!
